@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "802814661724",
+    "project_id": "co-inter-96e2f",
+    "storage_bucket": "co-inter-96e2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802814661724:android:e0619be6b45e0e7a840299",
+        "android_client_info": {
+          "package_name": "com.example.cointer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802814661724-kr8i11kn9hhuojck8imp1niejf7t710o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0YBvo-E_BAso49SXRh6uJIVKjFtQx5TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802814661724-kr8i11kn9hhuojck8imp1niejf7t710o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
